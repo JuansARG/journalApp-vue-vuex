@@ -1,4 +1,4 @@
-# journal
+# Journal App - Curso Vue - Fernando Herrera
 
 ## Project setup
 ```
